@@ -46,5 +46,5 @@ Graduate of Management Information Systems in two thousand nine with extensive e
 
 ### Links:
 - [LinkedIn](https://www.linkedin.com/in/mabdo0)
-- [GitHub]](https://github.com/Mo-sayed0)
+- [GitHub](https://github.com/Mo-sayed0)
 
